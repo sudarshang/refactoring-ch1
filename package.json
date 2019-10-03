@@ -1,0 +1,14 @@
+{
+  "name": "ch1",
+  "version": "1.0.0",
+  "description": "Code and files copied over my refactoring",
+  "main": "statement.js",
+  "author": "Sudarshan Gaikaiwari",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
